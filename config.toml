@@ -1,0 +1,4 @@
+baseURL = "https://www.hugo-notebook.com/argon"
+languageCode = "en-us"
+title = "Martial Arts"
+theme = "book"

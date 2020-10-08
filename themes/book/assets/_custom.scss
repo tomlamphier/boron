@@ -1,0 +1,18 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+figure.floatright {
+  max-width: 30%;
+  width: auto;
+  height: auto;
+  float: right;
+}
+
+figure.floatleft {
+  max-width: 30%;
+  width: auto;
+  height: auto;
+  float: left;
+  margin-left: 15px;
+  margin-right: 15px;
+}
